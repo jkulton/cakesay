@@ -1,6 +1,6 @@
 # cakesay
 
-Create an ascii cake w/message
+Create an ASCII cake with a message
 
 ## How to use
 
