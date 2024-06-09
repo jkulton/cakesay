@@ -15,7 +15,7 @@ Create an ASCII cake with a message
 cakesay returns plain text, so you can use it with basically any HTTP client.
 
 ```sh
-$ curl 'https://cakesay.vercel.app/Hello!'
+$ curl 'https://jkulton-cakesay.web.val.run/Hello!'
                           i.
                         .7.
                        .. :v
